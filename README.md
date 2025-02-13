@@ -1,4 +1,5 @@
 # SkilFlo-AI
+![Demo]demo.gif
 This AI model generates roadmaps to study or master any technical skill
 1. Install the required packages using: 
 ```bash
