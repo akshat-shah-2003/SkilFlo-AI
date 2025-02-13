@@ -67,7 +67,7 @@ def generate_plantuml_image(plantuml_code):
     driver = webdriver.Chrome(options=chrome_options)
 
     try:
-        driver.get("https://www.plantuml.com/")
+        driver.get("https://www.plantuml.com/plantuml/uml/SyfFKj2rKt3CoKnELR1Io4ZDoSa700003")
         textarea = driver.find_element(By.ID, "inflated")
         textarea.clear()
         textarea.send_keys(plantuml_code)
