@@ -1,0 +1,4 @@
+selenium
+streamlit
+google-generativeai
+requests
