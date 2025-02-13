@@ -1,5 +1,5 @@
 # SkilFlo-AI
-![Demo](demo.mp4)
+[![Watch the video](https://img.youtube.com/vi/B4Lesu4VW0s/0.jpg)](https://youtu.be/B4Lesu4VW0s)
 This AI model generates roadmaps to study or master any technical skill
 1. Install the required packages using: 
 ```bash
